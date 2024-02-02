@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Priority: Critical",
+    "color": "B70102",
+    "description": "issue had to be resolved immediately"
+  },
+  {
+    "name": "Priority: High",
+    "color": "DA3D02",
+    "description": "issue had to be resolved as soon as possible"
+  },
+  {
+    "name": "Priority: Medium",
+    "color": "FBCB00",
+    "description": "issue had to be resolved in the near future"
+  },
+  {
+    "name": "Priority: Low",
+    "color": "028B0F",
+    "description": "issue had to be resolved in the future"
+  },
+  {
+    "name": "Status: Done",
+    "color": "00b894",
+    "description": "issue has been resolved"
+  },
+  {
+    "name": "Status: Duplicated",
+    "color": "a29bfe",
+    "description": "issue has been duplicated",
+    "aliases": ["duplicate"]
+  },
+  {
+    "name": "Status: In Progress",
+    "color": "74b9ff",
+    "description": "issue is being processed"
+  },
+  {
+    "name": "Status: Pending",
+    "color": "fab1a0",
+    "description": "issue is pending"",
+    "aliases": ["wontfix"]
+  },
+  {
+    "name": "Status: Reviewing",
+    "color": "fdcb6e",
+    "description": "issue is being reviewed"
+  },
+  {
+    "name": "Status: To Do",
+    "color": "e17055",
+    "description": "issue is waiting to be processed"
+  },
+  {
+    "name": "Type: Setting",
+    "color": "b2bec3",
+    "description": "About setting"
+  },
+  {
+    "name": "Type: Bug",
+    "color": "E24946",
+    "description": "About bug",
+    "aliases": ["bug"]
+  },
+  {
+    "name": "Type: Documentation",
+    "color": "1C8733",
+    "description": "About documentation"
+  },
+  {
+    "name": "Type: Feature",
+    "color": "1870EC",
+    "description": "About new feature"
+  },
+  {
+    "name": "Type: Improvement",
+    "color": "8A58E6",
+    "description": "About improvement",
+    "aliases": ["enhancement"]
+  },
+  {
+    "name": "Type: Style",
+    "color": "513AF9",
+    "description": "About Style",
+  },
+  {
+    "name": "Type: Release",
+    "color": "2016B4",
+    "description": "About release"
+  },
+  {
+    "name": "Type: Refactor",
+    "color": "C0498B",
+    "description": "About Refactoring"
+  },
+  {
+    "name": "Type: Test",
+    "color": "D7542E",
+    "description": "About Test"
+  }
+]
