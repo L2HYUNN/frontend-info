@@ -38,7 +38,7 @@
   {
     "name": "Status: Pending",
     "color": "fab1a0",
-    "description": "issue is pending"",
+    "description": "issue is pending",
     "aliases": ["wontfix"]
   },
   {
@@ -81,7 +81,7 @@
   {
     "name": "Type: Style",
     "color": "513AF9",
-    "description": "About Style",
+    "description": "About Style"
   },
   {
     "name": "Type: Release",
