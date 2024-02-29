@@ -1,0 +1,18 @@
+'Type: Setting':
+  - head-branch: ['setting']
+'Type: Bug':
+  - head-branch: ['bug', 'fix']
+'Type: Documentation':
+  - head-branch: ['docs']
+'Type: Feature':
+  - head-branch: ['feature', 'feat']
+'Type: Improvement':
+  - head-branch: ['improvement']
+'Type: Style':
+  - head-branch: ['style']
+'Type: Release':
+  - base-branch: 'main'
+'Type: Refactor':
+  - head-branch: ['refactor']
+'Type: Test':
+  - head-branch: ['test']
